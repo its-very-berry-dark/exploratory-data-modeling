@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# exploratory-data-modeling
-Projects incorporates data preprocessing, EDA and ML using Jupyter Notebook. The dataset will vary according to interests.
-=======
 A directory containing ML related projects, incorporating Data Preprocessing, EDA and other data related stuffs. All of the projects in this folder is contained in ipynb file (Jupyter Notebook) for better viewing.
 
 <h4> 1 | Earthquake-Tsunami Risk Assessment Analysis</h4>
@@ -16,4 +12,3 @@ Dataset Information <br><br>
 </div>
 
 Status: On-going
->>>>>>> eda-folder-branch
